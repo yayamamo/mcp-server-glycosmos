@@ -3,7 +3,7 @@
 - To utilize this server from Claude Desktop please follow the instructions [here](https://modelcontextprotocol.io/quickstart/user)  
 An example configuration for this server is as follows:
 ```
-      "ask_rdfportal": {
+      "ask_glycosmos": {
         "command": "/Users/awsome_user/.local/bin/uv",
         "args": [
           "--directory",
@@ -13,3 +13,4 @@ An example configuration for this server is as follows:
         ]
       }
 ```
+
